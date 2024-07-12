@@ -1,4 +1,4 @@
-![I am MarufMahadhi](https://github.com///blob/main/code.png)
+![I am MarufMahadhi](https://i.ibb.co/Lt6Ct7s/code.png)
 
 <h1 align="center">Hi 👋, I'm Maruf Mahadhi</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
